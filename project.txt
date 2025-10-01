@@ -1,1 +1,3 @@
 Welcome to Fresh Git Demo! 
+
+Adding first feature.
